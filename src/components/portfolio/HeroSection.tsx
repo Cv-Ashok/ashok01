@@ -119,7 +119,7 @@ const HeroSection = () => {
                 <img
                   src={profileImg}
                   alt="Choppa Venkata Ashok"
-                  className="w-full h-full rounded-full object-cover"
+                  className="w-full h-full rounded-full object-cover object-top"
                 />
               </div>
               {/* Floating accent dot */}
