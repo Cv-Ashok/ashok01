@@ -13,13 +13,13 @@ const education = [
   {
     degree: "Intermediate",
     school: "Sri Chaitanya Junior College, Andhra Pradesh, India",
-    period: "April 2018 — March 2020",
+    period: "April 2019 — March 2021",
     grade: "Percentage: 75%",
   },
   {
     degree: "Matriculation",
     school: "Nagarjuna High School, Andhra Pradesh, India",
-    period: "April 2016 — March 2018",
+    period: "March 2019",
     grade: "Percentage: 98%",
   },
 ];
